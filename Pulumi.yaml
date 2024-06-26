@@ -1,0 +1,6 @@
+name: neurons.image-analysis
+runtime: nodejs
+description: Simple project for summarizing content of images
+main: infrastructure
+backend:
+  url: gs://bkt-pulumi-state-files
